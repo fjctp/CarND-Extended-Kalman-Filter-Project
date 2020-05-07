@@ -45,6 +45,13 @@ Here is the main protocol that main.cpp uses for uWebSocketIO in communicating w
 
 ---
 
+## Simulation environment
+Simulation environment generates sensor measurements and publish them using uWebSocketIO.
+
+[Term 2 Simulator](https://github.com/udacity/self-driving-car-sim/releases)
+
+---
+
 ## Other Important Dependencies
 
 * cmake >= 3.5
